@@ -1,0 +1,13 @@
+{
+  "name": "easy node template",
+  "version": "1.0.0",
+  "description": "Node.js allowing js modules with a helper function to read text files, built for Advent of Code 2021",
+  "main": "index.js",
+  "repository": "",
+  "author": "Mike Heavers <mheavers@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.5.0"
+  },
+  "type": "module"
+}
